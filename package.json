@@ -1,0 +1,9 @@
+{
+  "name": "grasshoper",
+  "version": "0.0.0",
+  "description": "Grasshoper",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
